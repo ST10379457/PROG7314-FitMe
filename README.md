@@ -76,7 +76,7 @@ Installation:
 
  -Clone the repository
    git clone https://github.com/david-gee-the-1st/FitMe.git
-   
+   git clone https://github.com/ST10379457/PROG7314-FitMe.git
  -Open Android Studio
  
  -Let Gradle sync and build the project.
